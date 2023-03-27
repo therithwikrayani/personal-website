@@ -1,0 +1,11 @@
+[submodule "therithwikrayani/themes/terminal"]
+	path = therithwikrayani/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "therithwikrayani/therithwikrayani.com"]
+	path = therithwikrayani/therithwikrayani.com
+	url = https://github.com/therithwikrayani/therithwikrayani.com
+	branch = main
+[submodule "therithwikrayani/public"]
+	path = therithwikrayani/public
+	url = https://github.com/therithwikrayani/therithwikrayani.com
+	branch = main
