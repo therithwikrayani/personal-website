@@ -66,9 +66,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "Rithwik Rayani"
+    # subtitle = "A simple, retro theme for Hugo"
+    owner = "Rithwik Rayani"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -80,7 +80,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Rithwik Rayani"
       logoHomeLink = "/"
 
     [languages.en.menu]
